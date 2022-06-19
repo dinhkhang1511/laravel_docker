@@ -12,4 +12,4 @@
 - Chạy lệnh 'docker-compose exec php php /var/www/html/laravel-docker/artisan migrate'
 - Tiếp tục chạy lệnh 'docker-compose exec php php /var/www/html/laravel-docker/artisan db:seed --class=CustomserSeeder'
 - Sau đó vào port đã cấu hình cho nginx và sử dụng: http://localhost:8088 thêm '/customer' phía sau để vào quản lý thông tin khách hàng
--                                               ** Cảm ơn vì đã đọc file readme trước khi sử dụng.**
+-                                   ** Cảm ơn vì đã đọc file readme trước khi sử dụng.**
